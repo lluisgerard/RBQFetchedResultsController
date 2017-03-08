@@ -1,3 +1,3 @@
 github "realm/realm-cocoa"
 github "Roobiq/RealmUtilities"
-github "Roobiq/RBQSafeRealmObject"
+github "lluisgerard/RBQSafeRealmObject"
